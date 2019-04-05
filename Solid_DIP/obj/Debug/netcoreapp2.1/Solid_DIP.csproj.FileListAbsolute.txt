@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\Solid\Solid_DIP\bin\Debug\netcoreapp2.1\Solid_DIP.deps.json
+C:\Users\Lenovo\source\repos\Solid\Solid_DIP\bin\Debug\netcoreapp2.1\Solid_DIP.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Solid\Solid_DIP\bin\Debug\netcoreapp2.1\Solid_DIP.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Solid\Solid_DIP\bin\Debug\netcoreapp2.1\Solid_DIP.dll
+C:\Users\Lenovo\source\repos\Solid\Solid_DIP\bin\Debug\netcoreapp2.1\Solid_DIP.pdb
+C:\Users\Lenovo\source\repos\Solid\Solid_DIP\obj\Debug\netcoreapp2.1\Solid_DIP.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Solid\Solid_DIP\obj\Debug\netcoreapp2.1\Solid_DIP.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Solid\Solid_DIP\obj\Debug\netcoreapp2.1\Solid_DIP.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Solid\Solid_DIP\obj\Debug\netcoreapp2.1\Solid_DIP.dll
+C:\Users\Lenovo\source\repos\Solid\Solid_DIP\obj\Debug\netcoreapp2.1\Solid_DIP.pdb

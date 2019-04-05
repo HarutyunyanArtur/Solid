@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\Solid\Solid\bin\Debug\netcoreapp2.1\Solid.deps.json
+C:\Users\Lenovo\source\repos\Solid\Solid\bin\Debug\netcoreapp2.1\Solid.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Solid\Solid\bin\Debug\netcoreapp2.1\Solid.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Solid\Solid\bin\Debug\netcoreapp2.1\Solid.dll
+C:\Users\Lenovo\source\repos\Solid\Solid\bin\Debug\netcoreapp2.1\Solid.pdb
+C:\Users\Lenovo\source\repos\Solid\Solid\obj\Debug\netcoreapp2.1\Solid.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Solid\Solid\obj\Debug\netcoreapp2.1\Solid.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Solid\Solid\obj\Debug\netcoreapp2.1\Solid.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Solid\Solid\obj\Debug\netcoreapp2.1\Solid.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Solid\Solid\obj\Debug\netcoreapp2.1\Solid.dll
+C:\Users\Lenovo\source\repos\Solid\Solid\obj\Debug\netcoreapp2.1\Solid.pdb

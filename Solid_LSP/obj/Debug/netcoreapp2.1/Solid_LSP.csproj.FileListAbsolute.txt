@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\Solid\Solid_LSP\bin\Debug\netcoreapp2.1\Solid_LSP.deps.json
+C:\Users\Lenovo\source\repos\Solid\Solid_LSP\bin\Debug\netcoreapp2.1\Solid_LSP.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Solid\Solid_LSP\bin\Debug\netcoreapp2.1\Solid_LSP.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Solid\Solid_LSP\bin\Debug\netcoreapp2.1\Solid_LSP.dll
+C:\Users\Lenovo\source\repos\Solid\Solid_LSP\bin\Debug\netcoreapp2.1\Solid_LSP.pdb
+C:\Users\Lenovo\source\repos\Solid\Solid_LSP\obj\Debug\netcoreapp2.1\Solid_LSP.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Solid\Solid_LSP\obj\Debug\netcoreapp2.1\Solid_LSP.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Solid\Solid_LSP\obj\Debug\netcoreapp2.1\Solid_LSP.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Solid\Solid_LSP\obj\Debug\netcoreapp2.1\Solid_LSP.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Solid\Solid_LSP\obj\Debug\netcoreapp2.1\Solid_LSP.dll
+C:\Users\Lenovo\source\repos\Solid\Solid_LSP\obj\Debug\netcoreapp2.1\Solid_LSP.pdb

@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\Solid\Solid_1\bin\Debug\netcoreapp2.1\Solid_SRP.deps.json
+C:\Users\Lenovo\source\repos\Solid\Solid_1\bin\Debug\netcoreapp2.1\Solid_SRP.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Solid\Solid_1\bin\Debug\netcoreapp2.1\Solid_SRP.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Solid\Solid_1\bin\Debug\netcoreapp2.1\Solid_SRP.dll
+C:\Users\Lenovo\source\repos\Solid\Solid_1\bin\Debug\netcoreapp2.1\Solid_SRP.pdb
+C:\Users\Lenovo\source\repos\Solid\Solid_1\obj\Debug\netcoreapp2.1\Solid_SRP.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Solid\Solid_1\obj\Debug\netcoreapp2.1\Solid_SRP.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Solid\Solid_1\obj\Debug\netcoreapp2.1\Solid_SRP.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Solid\Solid_1\obj\Debug\netcoreapp2.1\Solid_SRP.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Solid\Solid_1\obj\Debug\netcoreapp2.1\Solid_SRP.dll
+C:\Users\Lenovo\source\repos\Solid\Solid_1\obj\Debug\netcoreapp2.1\Solid_SRP.pdb
